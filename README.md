@@ -31,7 +31,7 @@ A simple Pomodoro timer bot to help you manage your work and break intervals eff
    ```
 
 ### Configuration
-- Copy `.env.example` to `.env` and update the environment variables as needed.
+- Create `.env` and update the environment variables as needed.
 
 ### Usage
 - Run the bot locally:
