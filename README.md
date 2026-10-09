@@ -52,7 +52,7 @@ A simple Pomodoro timer bot to help you manage your work and break intervals eff
 - `.env` - Environment variables (should not be committed)
 
 ## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change. New ideas are always welcome!
 
 ## License
 [MIT](LICENSE)
